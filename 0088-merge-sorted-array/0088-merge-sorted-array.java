@@ -4,23 +4,27 @@ class Solution {
         int j=n-1;
         int id=m+n-1;
         while(i>=0 && j>=0){
+
             if(nums1[i]>nums2[j]){
                 nums1[id]=nums1[i];
-                id--;
                 i--;
+                id--;
+
             }
             else{
                 nums1[id]=nums2[j];
-                id--;
                 j--;
+                id--;
             }
+
+
         }
         while(j>=0){
             nums1[id]=nums2[j];
-            id--;
             j--;
+            id--;
         }
         
-        System.out.print(Arrays.toString(nums1));
+        
     }
 }
