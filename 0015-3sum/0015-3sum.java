@@ -10,7 +10,7 @@ class Solution {
             int left=i+1;
             int right=n-1;
             
-            while(left<right){
+           while(left<right){
                 int s=nums[left]+nums[right]+nums[i];
                 if(s==0){
                     res.add(Arrays.asList(nums[i],nums[left],nums[right]));
