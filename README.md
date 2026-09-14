@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shobhit3130/leetcode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/shobhit3130/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/shobhit3130/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shobhit3130/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shobhit3130/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shobhit3130/leetcode/tree/master/0009-palindrome-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shobhit3130/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shobhit3130/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
