@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shobhit3130/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shobhit3130/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shobhit3130/leetcode/tree/master/0027-remove-element) |
+| [0064-minimum-path-sum](https://github.com/shobhit3130/leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/shobhit3130/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shobhit3130/leetcode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/shobhit3130/leetcode/tree/master/0134-gas-station) |
@@ -76,5 +77,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/shobhit3130/leetcode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/shobhit3130/leetcode/tree/master/0198-house-robber) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/shobhit3130/leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
